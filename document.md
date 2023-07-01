@@ -13,7 +13,7 @@ I learned about Flexbox, a powerful CSS layout module that enabled me to create 
 - ![Sass](https://img.icons8.com/color/48/000000/sass.png)
 
 I explored Sass, a CSS preprocessor that offers additional functionalities and features, making CSS code more maintainable and efficient.
-- ![TailwindCSS](https://img.icons8.com/color/48/000000/tailwind-css.png)
+- TailwindCSS
 
  I familiarized myself with TailwindCSS, a utility-first CSS framework that streamlined my workflow by providing a comprehensive set of pre-built classes.
 - ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
@@ -21,10 +21,7 @@ I explored Sass, a CSS preprocessor that offers additional functionalities and f
 I acquired a solid understanding of JavaScript, covering its syntax, data types, control flow, and other core concepts.
 - ![Advanced JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
   
-I dived deeper into advanced JavaScript topics, including closures, prototypes, asynchronous programming, and ES6+ features, which enhanced my ability to write clean and efficient code.
-- ![DOM Manipulation](https://img.icons8.com/color/48/000000/html-dom.png)
-
-I learned how to interact with the Document Object Model (DOM) using JavaScript, allowing me to dynamically update and modify web page content.
+I dived deeper into advanced JavaScript topics, including closures, prototypes, asynchronous programming, and ES6+ features, which enhanced my ability to write clean and efficient code. I learned how to interact with the Document Object Model (DOM) using JavaScript, allowing me to dynamically update and modify web page content.
 - ![ReactJS](https://img.icons8.com/plasticine/48/000000/react.png)
 
 I gained hands-on experience with ReactJS, a popular JavaScript library for building user interfaces. I learned how to create reusable components, manage state, and handle interactivity within a React application.
@@ -53,7 +50,7 @@ I incorporated JWT authentication to ensure secure access to the application, pr
  I utilized CRON jobs to automate certain tasks within the application, enhancing efficiency and reducing manual effort.
  
 - CRUD Operations: The final project continued to employ CRUD operations, enabling users to create, read, update, and delete various resources within the application.
-- ![Socket.io](https://img.icons8.com/color/48/000000/socket-io.png)
+- Web Socket
 
 I integrated Socket.io to enable real-time communication between users, fostering a dynamic and interactive experience within the application.
 
