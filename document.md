@@ -4,7 +4,7 @@ The Bytewise Fellowship program has been an incredibly rewarding and enriching e
 
 During the fellowship, I delved into several important areas and learned a range of concepts and technologies. Here's an overview of what I gained throughout the program:
 
-- ![HTML & CSS](https://img.icons8.com/color/48/000000/html-5.png)
+- ![HTML & CSS](https://img.icons8.com/color/48/000000/html-5.png) HTML & CSS 
 
 I became proficient in creating the structure and styling web pages using HTML and CSS. These foundational languages form the backbone of web development.
 - ![Flexbox](https://img.icons8.com/color/48/000000/css3.png)
