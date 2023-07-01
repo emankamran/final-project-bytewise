@@ -24,10 +24,7 @@ I implemented frontend state management using Redux, enabling efficient data han
 ### Redis Server
 
 1. Ensure Redis Server is installed on your local machine.
-
-2. Start the Redis server:
-
-redis-server
+2. Start the Redis server: redis-server
 
 ## Usage
 
