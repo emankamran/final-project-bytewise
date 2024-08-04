@@ -1,4 +1,4 @@
-# The Bytewise Internship Experience
+# The Bytewise Internship
 
 The Bytewise Internship was a really great experience. I got to know about different web technologies and got an insight on how the whole MERN stack works. I learned the following along my internship journey:
 
